@@ -1,0 +1,79 @@
+.topBar{
+	background-color: yellow;
+	width: 100%;
+	height: 24%;
+}
+
+.topBar div{
+	background-color: red;
+	width: 20%;
+	height: 80%;
+	float: left;
+	margin: 20px 50px;
+}
+
+div.redSquareTop{
+	
+}
+
+div.blueSquareTop{
+	background-color: blue;
+}
+
+div.blackSquareTop{
+	background-color: black;
+}
+
+.textBlock{
+	width: 1260px;
+	height: 140px;
+}
+
+.textBlock div{
+	margin: 0px 20px;
+}
+
+div.textOne{
+	width: 95%;
+	height: 40%;
+}
+
+div.textTwo{
+	width: 95%;
+	margin-top: 20px;
+}
+
+.middleBlock{
+	background-color: blue;
+	width: 1180px;
+	height: 200px;
+	margin: 20px 20px;
+}
+
+.redMiddleBlock{
+	background-color: red;
+	width: 20%;
+	height: 100%;
+}
+
+.bottomBlock{
+	background-color: blue;
+	width: 1180px;
+	height: 110px;
+	margin: 5px 20px;
+}
+
+.bottomBlockRed{
+	background-color: red;
+	width: 30%;
+	height: 100%;
+	margin-left: 70%;
+}
+
+.bottomBlockGray{
+	background-color: black;
+	width: 70%;
+	height: 100%;
+	margin: 0 auto;
+}
+

@@ -1,0 +1,19 @@
+.mainDiv{
+	width: 600px;
+	height: 690px;
+	margin: 0 auto;
+	border: 3px double black;
+}
+
+.topWhiteBox{
+	background-color: white;
+	width: 80%;
+	height: 25%;
+	margin: 25px auto;
+}
+
+.topText{
+	font-family: Arial;
+	font-size: 12px;
+	margin: 10px auto;
+}
